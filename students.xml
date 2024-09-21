@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>addaom</Name>
+    <Surname>nerw</Surname>
+    <Id>stundas</Id>
+    <Group>12</Group>
+    <Email>21@gm,aiolc,,</Email>
+  </Student>
+  <Student>
+    <Name>sa</Name>
+    <Surname>aa</Surname>
+    <Id>as</Id>
+    <Group>afs</Group>
+    <Email>asd</Email>
+  </Student>
+  <Student>
+    <Name>a</Name>
+    <Surname>q</Surname>
+    <Id>q</Id>
+    <Group>q</Group>
+    <Email>q</Email>
+  </Student>
+</ArrayOfStudent>
